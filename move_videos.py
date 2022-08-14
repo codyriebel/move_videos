@@ -5,6 +5,8 @@ to separate videos. Keep videos in a different location on your
 computer or move only photos to a service like Amazon Photos that
 doesn't allow large amounts of video files.'''
 
+# When running, select folder desired from pop-up window
+
 import os
 import shutil
 from pathlib import Path
